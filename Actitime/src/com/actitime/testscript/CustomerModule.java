@@ -35,4 +35,5 @@ public void createAndDeleteCustomer() throws InterruptedException, EncryptedDocu
 		t.getDeleteBtn().click();Thread.sleep(time);
 		t.getPermanentlyDeleteBtn().click();Thread.sleep(time);
 	}
+	
 }
